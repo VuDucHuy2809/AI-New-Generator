@@ -24,4 +24,4 @@ streamlit run app.py
 ```  
 ---
 
-https://raw.githubusercontent.com/VuDucHuy2809/AI-New-Generator/main/Screenshot%202025-04-24%20215443.png
+![IndexAI](https://raw.githubusercontent.com/VuDucHuy2809/AI-New-Generator/main/Screenshot%202025-04-24%20215443.png)
