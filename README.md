@@ -19,10 +19,8 @@ Dự án này tận dụng CrewAI và mô hình Command-R:7B của Cohere để 
 
 Run Server 
 
-``bash
+```bash
 streamlit run app.py
-```
-  
-![Screenshot 2025-04-24 215443](https://github.com/user-attachments/assets/d121d5b9-3133-4f36-82c7-67be481d7b34)
-
+```  
+---
 
