@@ -14,11 +14,11 @@ Dự án này tận dụng CrewAI và mô hình Command-R:7B của Cohere để 
    Cài đặt Python 3.11 trở lên ( bởi vì có 1 số thư viện mới đc thêm vào từ 3.11 trở lên)
 
 ** Create .env
-   SERPER_API_KEY=Your_Key
-   COHERE_API_KEY=Your_Key
-   ```bash
+  -  SERPER_API_KEY=Your_Key
+  -  COHERE_API_KEY=Your_Key
+
   
-   ```
+
 
 ---
 
