@@ -1,0 +1,20 @@
+
+# AI News generator
+
+Dự án này tận dụng CrewAI và mô hình Command-R:7B của Cohere để xây dựng trình tạo tin tức AI!
+
+## Installation and setup
+
+**Get API Keys**: Đăng nhập vào trang web tạo tài khoản để lấy api , sau đó bỏ 2 API này vào file env
+   - [Serper API Key](https://serper.dev/)
+   - [Cohere API Key](https://dashboard.cohere.com/api-keys)
+
+
+**Install Dependencies**:
+   Cài đặt Python 3.11 trở lên ( bởi vì có 1 số thư viện mới đc thêm vào từ 3.11 trở lên)
+   ```bash
+  
+   ```
+
+---
+
